@@ -7,3 +7,5 @@ fsadjfaskjfhlsa
 ssdfdsf
 
 sdfsfsfsdfsdsf
+
+Git has a mutable index called stage
