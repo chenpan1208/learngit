@@ -8,4 +8,4 @@ ssdfdsf
 
 sdfsfsfsdfsdsf
 
-Git has a mutable index called stage
+Git has a mutable index called stagedsgfdsgsddsfg
