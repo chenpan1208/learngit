@@ -16,4 +16,8 @@ gsdf
 tanjiafdgdfg
 
 56565656565656565656
+<<<<<<< HEAD
 Creating a new branch is quick & simple.
+=======
+Creating a new branch is quick AND simple.
+>>>>>>> feature1
